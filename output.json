@@ -1913,6 +1913,9 @@
         "TAXES_INCLUDED": "Steuern enthalten", 
         "TO_TOP": "Nach oben"
     }, 
+    "TEST": {
+        "CHECK": "Hallo Rene"
+    }, 
     "TESTER": "Great, now find some more tags!", 
     "THIS": {
         "IS": {
