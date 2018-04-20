@@ -9,6 +9,7 @@
     "ACCOUNT": {
         "ACCOUNT": {
             "CHANGE_PASSWORD": "Passwort ändern", 
+            "CHECK": "Müsste gelöscht sein", 
             "DELETE": "Nutzerkonto löschen", 
             "HEADING": "Kontoeinstellungen", 
             "MEDIUMPASSWORD": "Mittel", 
