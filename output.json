@@ -20,7 +20,6 @@
             "PROFILE_IMAGE_HINT": "Mindestens 130 Pixel breit und maximal 2 MB groß", 
             "PROFILE_IMAGE_UPLOAD": "Avatar ändern", 
             "PW_RECOMMENDATIONS": {
-                "CASE": "Groß- und Kleinschreibung", 
                 "HEADING": "Wir empfehlen ein Passwort mit", 
                 "LENGTH": "8 oder mehr Zeichen", 
                 "NUMBER": "Mindestens einer Ziffer", 
@@ -163,6 +162,9 @@
     "ACCOUNT_DELETED": {
         "HEADING": "Schade, dass Du uns verlässt!", 
         "SUBHEADING": "Dein Account ist jetzt geschlossen."
+    }, 
+    "DARKEN": {
+        "BACKGROUND": "Darken background"
     }, 
     "DASHBOARD": {
         "CALENDAR": "Promotion-Kalender", 
